@@ -7,7 +7,7 @@ Github username : Venkat-Shadeslayer
 ## Overview
 This repository contains my work for Assignment 5 of the DA5401 course. 
 
-##Executive summary
+## Executive summary
 This project explored how dimensionality reduction techniques influence both visualization and predictive performance on the **Yeast multi-label classification dataset**. The dataset’s inherent complexity—overlapping functional labels and non-linear structures—makes it an ideal testbed for studying data veracity and representation learning.
 
 ### **Part A: Data Exploration and Label Simplification**
